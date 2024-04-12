@@ -1,0 +1,7 @@
+numpy 1.23.1
+torch 1.8.0+cu101
+scipy 1.10.1
+opencv-python 4.5.1.48
+matplotlib 3.3.2
+scikit-image 0.17.2
+shapely 2.0.1
